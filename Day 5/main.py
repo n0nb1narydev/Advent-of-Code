@@ -71,7 +71,7 @@ for direction in directions_clean:
 # for test in direction_test:
 #     move_letters(test)
 
-# tried CQQBBJFCS
+# CQQBBJFCS
 
 for k, v in cargo.items():
     print(v[-1])
